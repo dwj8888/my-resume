@@ -1,7 +1,6 @@
 # my-resume
 我的个人简历
-•
-个人信息
+
 
 姓    名：	丁文娟  | 女 | 25岁	工作经验：三年以上  
 联系邮箱：237620343@qq.com	联系电话：13585782639
@@ -12,7 +11,7 @@ Github：https://github.com/dwj8888
 
 
 
-专业技能
+<div style="color:blue;">专业技能</div>
 
 1、精通Div+Css页面布局。熟练使用Html5，Css3等新特性，制作响应式布局及其他各类布局。
 2、熟悉使用JavaScript、AJAX、JSON、DOM、BOM，了解JS面向对象、组件开发、正则表达式， ES6新特性。
@@ -24,7 +23,7 @@ Github：https://github.com/dwj8888
 8、熟悉使用Photoshop、Visual studio code 、Sublime、Hbuilder、Firebug等开发软件。
 9、有解决问题、钻研新技术的兴趣和能力，具有良好团队合作精神，有高度的责任心，能够胜任一定压力的工作。
 
-工作经历
+<div style="color:blue;">工作经验</div>
 
 2017/11 – 至今
 上海赛康服饰有限公司|前端工程师
@@ -53,7 +52,8 @@ Github：https://github.com/dwj8888
 3、	根据产品需求和平面设计，优化后期前端用户体现效果，提高用户体验。
 4、	解决 Pc 端网页的兼容问题，及移动端的适配问题。
 5、	使用Firefox、Chrome等浏览器的Debug工具并快速解决页面中出现的Bug。
-项目经验
+
+<div style="color:blue;">项目经验</div>
 
 1、赛康服饰官网
 
@@ -80,11 +80,11 @@ Github：https://github.com/dwj8888
 实现技术：根据产品需求，使用Div+Css、Html5、Css3、等技术对页面进行布局搭建，使用Js、JQuery进行网页特效制作，并配合后端使用Ajax技术对数据进行处理。
 相关链接：http://www.4001002003.com/
 
-教育经历
+<div style="color:blue;">教育经历</div>
 
 2012/09 -- 2014/12 中央广播电视大学|本科|
 
-自我评价
+<div style="color:blue;">自我评价</div>
 
 	能够耐心解决编写代码中遇到的问题，反复思考更优的编写代码技巧，以及网页优化方案。
 	对待工作勤奋，认真负责，适应高强度工作压力。
