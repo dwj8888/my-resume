@@ -6,8 +6,8 @@
 联系邮箱：237620343@qq.com	<br>联系电话：13585782639 <br>
 期望职业：Web前端开发工程师	<br>  工作地区：上海 <br>
 期望月薪：15K-18K	<br>目前状况：我目前处于离职状态，可立即上岗 <br>
-Github：https://github.com/dwj8888     <br>
-个人网站：http://www.dingwenjuan.cn/   <br>
+Github：  <a href="https://github.com/dwj8888"></a>    <br>
+个人网站： <a href="http://www.dingwenjuan.cn/"></a>  <br>
 
 
 
@@ -61,7 +61,7 @@ Github：https://github.com/dwj8888     <br>
 
 技术选型：HTML5、CSS3、Javascript、jQuery、Ajax等<br>
 实现技术：使用Div+Css、Html5、Css3、等技术对页面进行布局搭建，使用Js、JQuery进行网页特效制作，使用Ajax技术对数据进行处理。<br>
-相关链接：http://www.skfushi.cn/<br>
+相关链接：<a href="http://www.skfushi.cn/"></a><br>
 
 2、摩贝SAAS平台
 
@@ -69,7 +69,7 @@ Github：https://github.com/dwj8888     <br>
 
 技术选型：vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui+ axios<br>
 实现技术：根据产品需求，使用element-ui框架对页面进行布局搭建，使用vue-router进行页面跳转，用webpack进行编译，用axios封装接口进行数据请求等。<br>
-相关链接：http://saas.molbase.cn<br>
+相关链接： <a href="http://saas.molbase.cn"></a><br>
 
 
 3、安师傅官网
@@ -78,7 +78,7 @@ Github：https://github.com/dwj8888     <br>
 
 技术选型：HTML5、CSS3、Javascript、jQuery、Ajax等<br>
 实现技术：根据产品需求，使用Div+Css、Html5、Css3、等技术对页面进行布局搭建，使用Js、JQuery进行网页特效制作，并配合后端使用Ajax技术对数据进行处理。
-相关链接：http://www.4001002003.com/<br>
+相关链接：<a href="http://www.4001002003.com/"></a><br>
 
 <div style="color:blue;">教育经历</div>
 
