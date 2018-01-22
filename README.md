@@ -61,7 +61,7 @@ Github：https://github.com/dwj8888     <br>
 
 技术选型：HTML5、CSS3、Javascript、jQuery、Ajax等<br>
 实现技术：使用Div+Css、Html5、Css3、等技术对页面进行布局搭建，使用Js、JQuery进行网页特效制作，使用Ajax技术对数据进行处理。<br>
-相关链接：
+相关链接：http://www.skfushi.cn/<br>
 
 2、摩贝SAAS平台
 
