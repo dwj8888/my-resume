@@ -77,7 +77,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 项目介绍 ：安师傅不仅提供代驾服务以外，更涉及代维修、代保养、代年检、陪练车、接送家人、接送机等更加细致人性化的服务领域，也可提供为个人量身定做的“私人定制”服务。<br>
 
 技术选型：HTML5、CSS3、Javascript、jQuery、Ajax等<br>
-实现技术：根据产品需求，使用Div+Css、Html5、Css3、等技术对页面进行布局搭建，使用Js、JQuery进行网页特效制作，并配合后端使用Ajax技术对数据进行处理。
+实现技术：根据产品需求，使用Div+Css、Html5、Css3、等技术对页面进行布局搭建，使用Js、JQuery进行网页特效制作，并配合后端使用Ajax技术对数据进行处理。<br>
 相关链接：<a href="http://www.4001002003.com/">http://www.4001002003.com/</a><br>
 
 <div style="color:blue;">教育经历</div>
