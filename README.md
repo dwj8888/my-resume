@@ -25,7 +25,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 
 <div style="color:blue;">工作经验</div>
 
-2016/12 – 至今
+2017/5 – 至今
 上海赛康服饰有限公司|前端工程师<br>
 行业类别：服装|企业性质：合资<br>
 工作描述： <br>
@@ -33,7 +33,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 2、对公司部分业务进行重构。<br>
 3、配合产品经理完成Web项目迭代，不断优化和提升用户体验。<br>
 4、根据业务需求，维护前端组件，持续提升页面性能。<br>
-2015/8 – 2016/12<br>
+2015/8 – 2017/5<br>
 摩贝（上海）生物科技有限公司|前端工程师<br>
 行业类别：B2B电商|企业性质：合资<br>
 工作描述： <br>
