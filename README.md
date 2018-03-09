@@ -33,6 +33,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 3、配合后台完成前后端交互。<br>
 4、配合产品经理完成Web项目迭代，不断优化和提升用户体验。<br>
 5、根据业务需求，维护前端组件，持续提升页面性能。<br>
+
 2015/8 – 2017/5<br>
 摩贝（上海）生物科技有限公司|前端工程师<br>
 行业类别：B2B电商|企业性质：合资<br>
@@ -43,6 +44,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 4、负责Web前端系统和功能调试和维护。<br>
 5、配合产品经理和UI设计师，研究并改善用户体验。<br>
 6、实现前后端的数据交互。<br>
+
 2014/12 -- 2015/8<br>
 上海安师傅汽车服务股份有限公司|前端开发工程师<br>
 行业类别： 互联网/电子商务|企业性质：合资<br>
@@ -57,7 +59,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 
 1、赛康服饰后台管理系统
 
-<img src="">
+<img src="p1.png">
 项目介绍 ：上海赛康服饰后台管理系统主要针对业务需要构建，便于管理客户信息、商品库存、发票信息、采购信息、销售信息等业务平台!<br>
 
 技术选型：vue2 + vuex + vue-router + webpack + ES6 + less + element-ui+ axios等<br>
@@ -65,7 +67,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 
 2、赛康服饰官网
 
-<img src="">
+<img src="p2.png">
 项目介绍 ：上海赛康服饰直营各类中高档制服、工装。并在上海、华东、华北等各经济重点城市设有分公司和工厂。未来，上海赛康服饰将继续秉承“创新更高品质、服务眼见为实”的理念，为广大客户提供尽善尽美的服务！
 
 技术选型：HTML5、CSS3、Javascript、jQuery、Ajax等
@@ -73,7 +75,8 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 相关链接：<a href="http://www.skfushi.cn/">http://www.skfushi.cn/</a><br>
 
 3、摩贝SAAS平台
-<img src="">
+<img src="p3.png">
+<img src="p4.png">
 项目介绍 ：摩贝化学品综合信息管理平台汇聚了化学品全产业链的专业及商业数据，为全球化学品从业者提供一站式信息资讯服务。<br>
 
 技术选型：vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui+ axios<br>
