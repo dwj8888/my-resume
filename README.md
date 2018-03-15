@@ -55,7 +55,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 
 1、赛康服饰后台管理系统
 
-<img src="p1.png">
+<img src="p1.png"><br>
 项目介绍 ：上海赛康服饰后台管理系统主要针对业务需要构建，便于管理客户信息、商品库存、发票信息、采购信息、销售信息等业务平台!<br>
 
 技术选型：vue2 + vuex + vue-router + webpack + ES6 + less + element-ui+ axios等<br>
@@ -63,7 +63,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 
 2、赛康服饰官网
 
-<img src="p2.png">
+<img src="p2.png"><br>
 项目介绍 ：上海赛康服饰直营各类中高档制服、工装。并在上海、华东、华北等各经济重点城市设有分公司和工厂。未来，上海赛康服饰将继续秉承“创新更高品质、服务眼见为实”的理念，为广大客户提供尽善尽美的服务！
 
 技术选型：HTML5、CSS3、Javascript、jQuery、Ajax等
@@ -73,7 +73,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 3、摩贝SAAS平台
 
 <img src="p3.png">
-<img src="p4.png">
+<img src="p4.png"><br>
 项目介绍 ：摩贝化学品综合信息管理平台汇聚了化学品全产业链的专业及商业数据，为全球化学品从业者提供一站式信息资讯服务。<br>
 
 技术选型：vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui+ axios<br>
