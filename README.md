@@ -23,7 +23,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 
 <div style="color:blue;">工作经验</div>
 
-2017/1 – 至今
+2017/1 – 至今<br>
 上海赛康服饰有限公司|前端工程师<br>
 行业类别：服装|企业性质：合资<br>
 工作描述： <br>
