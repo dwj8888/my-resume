@@ -14,17 +14,16 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 <div style="color:blue;">专业技能</div>
 
 1、精通Div+Css页面布局。熟练使用Html5，Css3等新特性，制作响应式布局及其他各类布局。<br>
-2、精通Vue.js前端主流框架，熟悉Angular.js，React.js，微信小程序等前端技术，熟练使用技术栈Vue-router、Vuex、Axios、Webpack、Es6。<br>
+2、精通Vue.js前端主流框架，熟悉Angular.js，React.js，微信小程序等前端技术，熟练使用技术栈Elemen-ui、Vue-router、Vuex、Axios、Webpack。<br>
 3、熟练使用JQuery、Zepto、Bootstrap、Swiper等第三方类库。<br>
-4、熟悉使用JavaScript、AJAX、JSON、DOM、BOM，了解JS面向对象、组件开发、正则表达式， ES6新特性。<br>
-5、了解模块化开发 CMD AMD 规范，以及Gulp、Less/Sass、 Require.js、 Sea.js等技术。<br>
-6、掌握Php、Node.js等服务器语言，与后台开发工程师协作，能完成操作交互。<br>
-7、熟悉使用Photoshop、Visual studio code 、Sublime、Hbuilder、Firebug等开发软件。<br>
-8、有解决问题、钻研新技术的兴趣和能力，具有良好团队合作精神，有高度的责任心，能够胜任一定压力的工作。<br>
+4、熟悉使用JavaScript、AJAX、JSON、DOM、BOM。<br>
+5、掌握Node.js等服务器语言，与后台开发工程师协作，能完成操作交互。<br>
+6、熟悉使用Photoshop、Visual studio code 、Sublime、Hbuilder、Firebug等开发软件。<br>
+7、有解决问题、钻研新技术的兴趣和能力，具有良好团队合作精神，有高度的责任心，能够胜任一定压力的工作。<br>
 
 <div style="color:blue;">工作经验</div>
 
-2017/5 – 至今
+2017/1 – 至今
 上海赛康服饰有限公司|前端工程师<br>
 行业类别：服装|企业性质：合资<br>
 工作描述： <br>
@@ -34,16 +33,14 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 4、配合产品经理完成Web项目迭代，不断优化和提升用户体验。<br>
 5、根据业务需求，维护前端组件，持续提升页面性能。<br>
 
-2015/8 – 2017/5<br>
+2015/8 – 2017/1<br>
 摩贝（上海）生物科技有限公司|前端工程师<br>
 行业类别：B2B电商|企业性质：合资<br>
 工作描述： <br>
-1、负责Web前端页面开发使用HTML5、CSS3、Js等前端技术进行产品前端的开发。<br>
-2、使用Vue主流框架，维护前端框架的技术升级。<br>
-3、对公司官网进行部分重构，利用一些基于Node.JS的项目构建工具对项目进行配置（webpack,gulp）<br>
-4、负责Web前端系统和功能调试和维护。<br>
-5、配合产品经理和UI设计师，研究并改善用户体验。<br>
-6、实现前后端的数据交互。<br>
+1、使用Vue主流框架，维护前端框架的技术升级。<br>
+2、负责Web前端系统和功能调试和维护。<br>
+3、配合产品经理和UI设计师，研究并改善用户体验。<br>
+4、实现前后端的数据交互。<br>
 
 2014/12 -- 2015/8<br>
 上海安师傅汽车服务股份有限公司|前端开发工程师<br>
@@ -52,8 +49,7 @@ Github：  <a href="https://github.com/dwj8888">https://github.com/dwj8888</a>  
 1、	使用Div+Css以及Html5+Css3等技术开发符合W3C标准的前端Pc页面及响应式页面。<br>
 2、	使用Javascript 、Jquery、Ajax等技术完成页面美化交互和数据交互。<br>
 3、	根据产品需求和平面设计，优化后期前端用户体现效果，提高用户体验。<br>
-4、	解决 Pc 端网页的兼容问题，及移动端的适配问题。<br>
-5、	使用Firefox、Chrome等浏览器的Debug工具并快速解决页面中出现的Bug。<br>
+4、	Pc 端网页及移动端的维护、更新。<br>
 
 <div style="color:blue;">项目经验</div>
 
